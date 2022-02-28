@@ -1,0 +1,1 @@
+require_relative 'cocoapods-hmap-prebuilt/hmap_version'
